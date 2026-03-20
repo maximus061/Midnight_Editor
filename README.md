@@ -37,7 +37,7 @@ pip install PyQt6
 ## Running from source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/midnight-editor.git
+git clone https://github.com/maximus061/Midnight_Editor.git
 cd midnight-editor
 pip install -r requirements.txt
 python main.py
